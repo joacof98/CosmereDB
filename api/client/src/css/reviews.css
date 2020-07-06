@@ -1,0 +1,64 @@
+/*
+Body representa TODA la app, es decir la etiqueta del html.
+Por esa razon se ve negra toda la app.
+*/
+body {
+    background-color: #0e1215;
+}
+
+#heroR {
+    background: url('../util/imgs/cosmere2.jpg');
+    height: 720px;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+#titleReviews {
+    font-family: 'Pacifico', cursive;
+    font-size: 75px;
+    text-align: center;
+    color: #009999;
+    margin-top: 15px;
+    text-shadow: 5px 5px 5px #014040;
+    animation: bounce;
+    animation-duration: 2s;
+    animation-delay: 0.5s;
+}
+
+#tableReviews {
+    margin-top: 70px !important;
+    margin-bottom: 20px !important;
+    width: 680px;
+    margin: auto;
+    background-color: #f2f7f7;
+}
+
+/*cuando se especifica width, marginauto centra con respecto a padre*/
+#form {
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #f2f7f7;
+}
+
+#heroHeader {
+    background: url('../util/imgs/cosmere3.jpg');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+#titleModal {
+    color: #95f5f5;
+    text-shadow: 5px 5px 5px red;
+}
+
+#modalDesc {
+    font-size: 15px;
+    white-space: pre-wrap;
+}
+
+#descUpdate {
+    height: 200px;
+}

@@ -1,0 +1,40 @@
+#hero {
+    background: url('../util/imgs/cosmere1.jpg');
+    height: 720px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+#title {
+    font-family: 'Pacifico', cursive;
+    font-size: 75px;
+    text-align: center;
+    margin-top: 150px;
+    color: #009999;
+    text-shadow: 5px 5px 5px black;
+    animation: bounce;
+    animation-duration: 2s;
+    animation-delay: 0.5s;
+}
+
+#dropdownInput {
+    margin-top: 190px;
+    width: 400px;
+}
+
+#btnSearch {
+    margin-left: 6px;
+}
+
+#divider {
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+#infoBg {
+    background-color: #e0f2f1;
+    margin-bottom: "15px";
+}
