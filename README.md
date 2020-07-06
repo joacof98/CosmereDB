@@ -11,7 +11,7 @@ npm install
 ```
 ### In the /sql folder:
 Here are the SQL scripts for creating the database and tables locally.
-Run the queries in schema.sql and data.sql to create and populate the tables.
+Run the queries in schema.sql and data.sql using your DBMS to create and populate the tables.
 The queries.sql script just have some queries to test the tables.
 
 ## Run the app
