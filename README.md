@@ -1,5 +1,5 @@
 # CosmereDB
-An fullstack application (with API REST) for search characters, books, etc in some of the books saga Cosmere.
+A fullstack application (with API REST for backend) for search characters, books, etc in some of the books saga Cosmere.
 Also have a section where you can save and manage reviews for all the books sagas.
 
 ## Getting Started
