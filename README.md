@@ -2,6 +2,12 @@
 A fullstack application (with API REST for backend) for search characters, books, etc in some of the books saga Cosmere.
 Also have a section where you can save and manage reviews for all the books sagas.
 
+## Screenshots
+
+![GitHub Logo](https://i.imgur.com/zjrB4EP.png)
+![GitHub Logo](https://i.imgur.com/QfFLX1r.png)
+![GitHub Logo](https://i.imgur.com/mLKLocI.png)
+
 ## Getting Started
 If NodeJS and MYSQLServer is already installed in your computer, for test this app, you need to run the following:
 
